@@ -1,0 +1,62 @@
+/* Created by: MariaG
+* Created on: April 19, 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit3-04-PHP-FahrenheitCelsius
+*/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#left {
+  width: 30%;
+  height: 250px;
+  /* Setting font size to be responsive and take up a certain percentage of viewport space */
+  font-size: 2vw;
+  /* Setting the div to the left side of the screen so I can place two divs side-by-side - learned from this website: https://www.educative.io/edpresso/how-to-make-side-by-side-divs-in-html */
+  float: left;
+  background-color: #283999;
+  padding: 30px;
+  color: white;
+  margin-left: 10%;
+  margin-top: 37px;
+}
+
+#right {
+  margin-left: 50%;
+  width: 35%;
+  height: 250px;
+  padding: 30px;
+  background-color: #dfdfe1;
+}
+
+button {
+  width: 50%;
+  margin-left: 25%;
+  color: white;
+  background-color: #eb6b57;
+  height: 30px;
+  border: none;
+}
+
+p {
+  width: 80%;
+  margin: 7% 10%;
+}
+
+#purple {
+  margin: 30px 10%;
+  width: 77%;
+  padding: 20px;
+  background-color: #e1d5ee;
+}
+
+iframe {
+  border: none;
+  background-color: #fcfeae;
+  margin-left: 10%;
+  width: 77%;
+  padding: 20px;
+  height: 40px;
+  margin-bottom: 40px;
+}

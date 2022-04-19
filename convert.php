@@ -1,3 +1,4 @@
+
 <?php
   $celsius = floatval($_POST['temp']);
   $fahrenheit = 9 / 5 * $celsius + 32;

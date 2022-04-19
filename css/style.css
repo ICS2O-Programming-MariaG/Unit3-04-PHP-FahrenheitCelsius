@@ -11,9 +11,13 @@ body {
 #left {
   width: 30%;
   height: 250px;
+  
   /* Setting font size to be responsive and take up a certain percentage of viewport space */
   font-size: 2vw;
-  /* Setting the div to the left side of the screen so I can place two divs side-by-side - learned from this website: https://www.educative.io/edpresso/how-to-make-side-by-side-divs-in-html */
+  
+  /* Setting the div to the left side of the screen so I can place two divs side-by-side
+  * I learned from this website: https://www.educative.io/edpresso/how-to-make-side-by-side-divs-in-html
+  */
   float: left;
   background-color: #283999;
   padding: 30px;

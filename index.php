@@ -26,8 +26,8 @@
     <br>
     <br>
     <div id="right">
-      <?php 
-        echo "<p>Welcome! This web page will take your input in Celsius and convert it to its equivalent in degrees Fahrenheit.</p>";
+      <?php
+        echo "<p>Welcome! This web page will take your input in Celsius and convert it to degrees Fahrenheit.</p>";
         echo "<p>If you would rather convert from Fahrenheit to Celsius, press the button below:</p>";
       ?>
       <button onclick="window.location.href='https://unit3-04-html-fahrenheitcelsius.mariagoemans1.repl.co/';">Click here!</button>

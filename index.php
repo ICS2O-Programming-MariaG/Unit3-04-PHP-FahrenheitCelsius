@@ -30,7 +30,7 @@
         echo "<p>Welcome! This web page will take your input in Celsius and convert it to degrees Fahrenheit.</p>";
         echo "<p>If you would rather convert from Fahrenheit to Celsius, press the button below:</p>";
         ?>
-      <button onclick="window.location.href='https://unit3-04-html-fahrenheitcelsius.mariagoemans1.repl.co/';">Click here!</button>
+      <button onclick="window.location.href='https://bit.ly/3xET8zB';">Click here!</button>
     </div>
     <!-- Div for style (below other two divs) -->
     <div id="purple">
